@@ -3,9 +3,9 @@ FreeLing compiled for CentOS with Java binding from [FreeLing master](https://gi
 
 For licenses refer to [FreeLing web page](http://nlp.cs.upc.edu/freeling)
 
-## data directory includes language data files
 
-## lib directory includes FreeLing lib files compiled for CentOS 7 including Java binding library. 
+lib directory: includes FreeLing lib files compiled for CentOS 7 including Java binding library. 
+reeling.jar: FreeLing Java API
 
 ## Installation:
 
